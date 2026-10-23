@@ -1,0 +1,10 @@
+{
+  "selected_version": "",
+  "selection_split": "validation",
+  "run_id": "",
+  "git_commit": "",
+  "dvc_reference": "",
+  "huggingface_model_sha": "",
+  "threshold": null,
+  "reason": "Completar antes de evaluar test."
+}
