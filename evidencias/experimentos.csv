@@ -1,0 +1,5 @@
+version,experiment_id,hypothesis,family,parameters,seed,git_commit,dvc_ref,mlflow_run_id,precision_attack,fpr,macro_f1,threshold,validation_conclusion
+v1,exp-001,,,,42,,,,,,,
+v1,exp-002,,,,42,,,,,,,
+v2,exp-003,,,,42,,,,,,,
+v2,exp-004,,,,42,,,,,,,
