@@ -1,0 +1,10 @@
+{
+  "version": "",
+  "model_sha": "",
+  "data_sha256": "",
+  "rows_evaluated": 82332,
+  "positive_class": 1,
+  "threshold": null,
+  "metrics": {"recall_attack": null, "precision_attack": null, "fpr": null, "macro_f1": null},
+  "confusion_matrix": [[null, null], [null, null]]
+}
