@@ -1,0 +1,9 @@
+stages:
+  audit:
+    cmd: python -m src.audit data/UNSW_NB15_training-set.csv data/UNSW_NB15_testing-set.csv
+    deps:
+      - src/audit.py
+      - data/UNSW_NB15_training-set.csv
+      - data/UNSW_NB15_testing-set.csv
+    outs:
+      - evidencias/auditoria.json
