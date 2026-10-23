@@ -1,0 +1,10 @@
+version: v2
+family: random_forest
+seed: 42
+threshold: 0.5
+preprocessing: median_imputation
+model:
+  n_estimators: 300
+  max_depth: 18
+  min_samples_leaf: 2
+  class_weight: balanced_subsample
