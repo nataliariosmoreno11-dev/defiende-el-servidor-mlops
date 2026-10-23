@@ -1,0 +1,8 @@
+version: v1
+family: logistic_regression
+seed: 42
+threshold: 0.5
+preprocessing: standard_scaler
+model:
+  C: 1.0
+  class_weight: balanced
